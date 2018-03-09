@@ -30,7 +30,7 @@ class add
 	}
 
 }
-class subtract
+class subtract						//class without constructor
 {
 	int subtraction(int a , int b)  			//local variable
 	{
